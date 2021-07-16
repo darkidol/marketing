@@ -358,7 +358,7 @@ nav:hover {
   padding: 20px;
 }
 
-.window:target {
+.window~:target {
   display: flex;
 }
 /* model end */
